@@ -35,6 +35,8 @@
         "@nestjs/passport": "^7.1.0",
         "@nestjs/platform-express": "^7.0.0",
         "@nestjs/typeorm": "^7.1.0",
+        "@commitlint/cli": "^8.2.0",
+        "@commitlint/config-conventional": "^8.2.0",
         "class-transformer": "^0.3.1",
         "class-validator": "^0.12.2",
         "mariadb": "^2.4.2",

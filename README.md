@@ -1,4 +1,4 @@
-# Nestjs Stack Backend template ( [github-search](https://github.com/sandousing/neststack-backend-template.git) )
+# Nestjs Stack Backend template ( [neststack-backend-template](https://github.com/sandousing/neststack-backend-template.git) )
 
 ## Description
 
